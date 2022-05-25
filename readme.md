@@ -1,5 +1,7 @@
 # :zipper_mouth_face: gitzip
 
+> This repo was cloned from [veshu/gitzip](https://github.com/veshu/gitzip) and then moved into the [exobase-js](https://github.com/exobase-inc/exobase-js) library project where it was converted to Typescript and renamed `@exobase/archiver`. Leaving this forked repo here for posterity and credit to Veshu! [See it now](https://github.com/exobase-inc/exobase-js/tree/master/packages/archiver).
+
 This module provides a `gitzip` command that creates zip file ignoring files from `.gitignore` file.
 
 If the source folder doesn't contain `.gitignore` then all files will be zipped.
